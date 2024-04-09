@@ -5,3 +5,10 @@ version = 3
 [[package]]
 name = "ch20-web-server"
 version = "0.1.0"
+dependencies = [
+ "threadpool",
+]
+
+[[package]]
+name = "threadpool"
+version = "0.1.0"
